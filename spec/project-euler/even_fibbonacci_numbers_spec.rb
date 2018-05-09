@@ -5,21 +5,27 @@
 # find the sum of the even-valued terms
 
 require_relative '../../lib/project-euler/even_fibonacci_numbers'
+describe 'all the things!' do
+  let(:fibonacci_sequence) {[1, 2, 3, 5, 8, 13, 21, 34, 55, 89]}
+  describe '#even_fibonacci_sum' do
+    it 'gives the sum of even valued fibonacci numbers under 100' do
+      expect(even_fibonacci_sum(100)).to eq(44)
+    end
 
-describe '#even_fibonacci_sum' do
-  it 'gives the sum of even valued fibonacci numbers under 100' do
-    expect(even_fibonacci_sum(100)).to eq(44)
+    it 'can solve the euler question' do
+      expect(even_fibonacci_sum(4000000)).to eq(4613732)
+    end
   end
-end
 
-describe '#fibonacci_numbers' do
-  it 'returns the fibonacci sequence up to the limit' do
-    expect(fibonacci_numbers(100)).to eq([1, 2, 3, 5, 8, 13, 21, 34, 55, 89])
+  describe '#fibonacci_numbers' do
+    it 'returns the fibonacci sequence up to the limit' do
+      expect(fibonacci_numbers(100)).to eq(fibonacci_sequence)
+    end
   end
-end
 
-describe '#even_numbers' do
-  it 'returns the even numbers in an array' do
-    expect(even_numbers([1, 2, 3, 5, 8, 13, 21, 34, 55, 89])).to eq([2, 8, 34])
+  describe '#even_numbers' do
+    it 'returns the even numbers in an array' do
+      expect(even_numbers(fibonacci_sequence)).to eq([2, 8, 34])
+    end
   end
 end
