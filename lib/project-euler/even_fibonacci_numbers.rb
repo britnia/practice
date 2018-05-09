@@ -1,5 +1,5 @@
 def even_fibonacci_sum(limit)
-  limit
+  even_numbers(fibonacci_numbers(limit)).sum
 end
 
 def fibonacci_numbers(limit)
@@ -15,5 +15,5 @@ def fibonacci_numbers(limit)
 end
 
 def even_numbers(fibs)
-
+  fibs.find_all(&:even?)
 end
