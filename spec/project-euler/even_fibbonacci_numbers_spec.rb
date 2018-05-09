@@ -13,9 +13,13 @@ describe '#even_fibonacci_sum' do
 end
 
 describe '#fibonacci_numbers' do
-  expect(fibonacci_numbers(100)).to eq([1, 2, 3, 5, 8, 13, 21, 34, 55, 89])
+  it 'returns the fibonacci sequence up to the limit' do
+    expect(fibonacci_numbers(100)).to eq([1, 2, 3, 5, 8, 13, 21, 34, 55, 89])
+  end
 end
 
 describe '#even_numbers' do
-  expect(even_numbers([1, 2, 3, 5, 8, 13, 21, 34, 55, 89])).to eq([2, 8, 34])
+  it 'returns the even numbers in an array' do
+    expect(even_numbers([1, 2, 3, 5, 8, 13, 21, 34, 55, 89])).to eq([2, 8, 34])
+  end
 end
