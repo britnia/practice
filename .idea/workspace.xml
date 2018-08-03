@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cc89880c-eda9-4daf-87a2-103628ab8777" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/lib/project-euler/sum_square_difference.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spec/project-euler/sum_square_difference_spec.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/project-euler/nth_prime.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spec/project-euler/nth_prime_spec.rb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spec/project-euler/sum_square_difference_spec.rb" beforeDir="false" afterPath="$PROJECT_DIR$/spec/project-euler/sum_square_difference_spec.rb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -24,11 +25,34 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="sum_square_difference_spec.rb" pinned="false" current-in-tab="true">
+      <file leaf-file-name="sum_square_difference_spec.rb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/spec/project-euler/sum_square_difference_spec.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="151">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
+            <state>
+              <caret column="13" lean-forward="true" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="nth_prime.rb" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lib/project-euler/nth_prime.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="nth_prime_spec.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spec/project-euler/nth_prime_spec.rb">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="fastest.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/project-euler/largest_prime_factor/fastest.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="17" column="3" lean-forward="true" selection-start-line="17" selection-start-column="3" selection-end-line="17" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -76,6 +100,8 @@
         <option value="$PROJECT_DIR$/spec/project-euler/smallest_multiple_spec.rb" />
         <option value="$PROJECT_DIR$/lib/project-euler/sum_square_difference.rb" />
         <option value="$PROJECT_DIR$/spec/project-euler/sum_square_difference_spec.rb" />
+        <option value="$PROJECT_DIR$/lib/project-euler/nth_prime.rb" />
+        <option value="$PROJECT_DIR$/spec/project-euler/nth_prime_spec.rb" />
       </list>
     </option>
   </component>
@@ -115,6 +141,13 @@
               <item name="Katas" type="462c0819:PsiDirectoryNode" />
               <item name="lib" type="462c0819:PsiDirectoryNode" />
               <item name="project-euler" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Katas" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Katas" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="project-euler" type="462c0819:PsiDirectoryNode" />
+              <item name="largest_prime_factor" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Katas" type="b2602c69:ProjectViewProjectNode" />
@@ -182,12 +215,12 @@
       <workItem from="1525827858252" duration="4172000" />
       <workItem from="1525869475643" duration="5407000" />
       <workItem from="1525964512048" duration="14662000" />
-      <workItem from="1533266703322" duration="8936000" />
+      <workItem from="1533266703322" duration="9831000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33177000" />
+    <option name="totallyTimeSpent" value="34072000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -364,13 +397,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/project-euler/largest_prime_factor/fastest.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="382">
-          <caret line="17" column="3" lean-forward="true" selection-start-line="17" selection-start-column="3" selection-end-line="17" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lib/project-euler/largest_prime_factor/faster.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
@@ -418,8 +444,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/spec/project-euler/sum_square_difference_spec.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="151">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        <state>
+          <caret column="13" lean-forward="true" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/project-euler/largest_prime_factor/fastest.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="3" lean-forward="true" selection-start-line="17" selection-start-column="3" selection-end-line="17" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spec/project-euler/nth_prime_spec.rb">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/project-euler/nth_prime.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
         </state>
       </provider>
     </entry>
