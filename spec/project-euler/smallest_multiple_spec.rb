@@ -3,7 +3,7 @@ require_relative '../../lib/project-euler/smallest_multiple'
 describe '#smallest_multiple' do
   it 'returns the smallest even multiple of all numbers in the range'do
     expect(smallest_multiple(1,10)).to eq(2520)
-    expect(smallest_multiple(1,20)).to eq(2520)
+    expect(smallest_multiple(1,20)).to eq(5040)
   end
 end
 
