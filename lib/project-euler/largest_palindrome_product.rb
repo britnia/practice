@@ -1,4 +1,3 @@
-require 'pry'
 def largest_palindrome_product digits
   max = get_max(digits)
   min = get_min(digits)
