@@ -1,4 +1,3 @@
-require 'pry'
 def largest_product_in_a_series series, length
   arry = series.to_s.split('').map { |i| i.to_i}
   max_index = arry.size - 1

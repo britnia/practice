@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cc89880c-eda9-4daf-87a2-103628ab8777" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/lib/project-euler/largest_product_in_a_series.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spec/project-euler/largest_product_in_a_series_spec.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/project-euler/pythagorean_triplets.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spec/project-euler/pythagorean_triplets_spec.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Katas.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Katas.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/project-euler/largest_product_in_a_series.rb" beforeDir="false" afterPath="$PROJECT_DIR$/lib/project-euler/largest_product_in_a_series.rb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,56 +18,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="sum_square_difference.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib/project-euler/sum_square_difference.rb">
+      <file leaf-file-name="pythagorean_triplets.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/project-euler/pythagorean_triplets.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="19">
-              <caret line="1" column="29" selection-start-line="1" selection-start-column="29" selection-end-line="1" selection-end-column="29" />
+            <state relative-caret-position="181">
+              <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="sum_square_difference_spec.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spec/project-euler/sum_square_difference_spec.rb">
+      <file leaf-file-name="pythagorean_triplets_spec.rb" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/spec/project-euler/pythagorean_triplets_spec.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="13" lean-forward="true" selection-end-line="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="nth_prime.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib/project-euler/nth_prime.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="nth_prime_spec.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spec/project-euler/nth_prime_spec.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="42" selection-end-line="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="largest_product_in_a_series.rb" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/lib/project-euler/largest_product_in_a_series.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="16" column="3" selection-start-line="16" selection-start-column="3" selection-end-line="16" selection-end-column="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="largest_product_in_a_series_spec.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spec/project-euler/largest_product_in_a_series_spec.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="11" column="48" selection-start-line="11" selection-start-column="48" selection-end-line="11" selection-end-column="48" />
+            <state relative-caret-position="76">
+              <caret line="4" column="33" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -116,6 +83,9 @@
         <option value="$PROJECT_DIR$/spec/project-euler/nth_prime_spec.rb" />
         <option value="$PROJECT_DIR$/spec/project-euler/largest_product_in_a_series_spec.rb" />
         <option value="$PROJECT_DIR$/lib/project-euler/largest_product_in_a_series.rb" />
+        <option value="$PROJECT_DIR$/spec/project-euler/pythagorean_triplet_spec.rb" />
+        <option value="$PROJECT_DIR$/lib/project-euler/pythagorean_triplets.rb" />
+        <option value="$PROJECT_DIR$/spec/project-euler/pythagorean_triplets_spec.rb" />
       </list>
     </option>
   </component>
@@ -229,12 +199,12 @@
       <workItem from="1525827858252" duration="4172000" />
       <workItem from="1525869475643" duration="5407000" />
       <workItem from="1525964512048" duration="14662000" />
-      <workItem from="1533266703322" duration="13446000" />
+      <workItem from="1533266703322" duration="19678000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37687000" />
+    <option name="totallyTimeSpent" value="43919000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -290,6 +260,11 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="2" />
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/.rspec">
@@ -456,17 +431,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/project-euler/sum_square_difference.rb">
+    <entry file="file://$PROJECT_DIR$/spec/project-euler/largest_product_in_a_series_spec.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" column="29" selection-start-line="1" selection-start-column="29" selection-end-line="1" selection-end-column="29" />
+        <state relative-caret-position="209">
+          <caret line="11" column="48" selection-start-line="11" selection-start-column="48" selection-end-line="11" selection-end-column="48" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spec/project-euler/sum_square_difference_spec.rb">
+    <entry file="file://$PROJECT_DIR$/lib/project-euler/largest_product_in_a_series.rb">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spec/project-euler/nth_prime_spec.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="13" lean-forward="true" selection-end-line="1" />
+          <caret column="8" lean-forward="true" selection-end-line="1" />
         </state>
       </provider>
     </entry>
@@ -477,24 +455,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spec/project-euler/nth_prime_spec.rb">
+    <entry file="file://$PROJECT_DIR$/spec/project-euler/sum_square_difference_spec.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="42" selection-end-line="1" />
+          <caret column="13" lean-forward="true" selection-end-line="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spec/project-euler/largest_product_in_a_series_spec.rb">
+    <entry file="file://$PROJECT_DIR$/lib/project-euler/sum_square_difference.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="48" selection-start-line="11" selection-start-column="48" selection-end-line="11" selection-end-column="48" />
+        <state relative-caret-position="19">
+          <caret line="1" column="29" selection-start-line="1" selection-start-column="29" selection-end-line="1" selection-end-column="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/project-euler/largest_product_in_a_series.rb">
+    <entry file="file://$PROJECT_DIR$/lib/project-euler/pythagorean_triplets.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" column="3" selection-start-line="16" selection-start-column="3" selection-end-line="16" selection-end-column="3" />
+        <state relative-caret-position="181">
+          <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spec/project-euler/pythagorean_triplets_spec.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="33" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
         </state>
       </provider>
     </entry>
