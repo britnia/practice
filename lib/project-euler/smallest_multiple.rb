@@ -1,10 +1,6 @@
 def smallest_multiple(min, max)
   working_number = max
-  if working_number <= 10
-    working_number += 1 until evenly_divisible?(working_number, min, max)
-  else
-    working_number += 10 until evenly_divisible?(working_number, min, max)
-  end
+  working_number += max until evenly_divisible?(working_number, min, max)
   return working_number
 end
 

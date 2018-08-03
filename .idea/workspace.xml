@@ -15,20 +15,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="smallest_multiple.rb" pinned="false" current-in-tab="true">
+      <file leaf-file-name="smallest_multiple.rb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/project-euler/smallest_multiple.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" column="2" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
+            <state relative-caret-position="209">
+              <caret line="11" column="3" lean-forward="true" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="smallest_multiple_spec.rb" pinned="false" current-in-tab="false">
+      <file leaf-file-name="smallest_multiple_spec.rb" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/spec/project-euler/smallest_multiple_spec.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="11" column="28" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
+            <state relative-caret-position="95">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
             </state>
           </provider>
         </entry>
@@ -72,8 +72,8 @@
         <option value="$PROJECT_DIR$/lib/project-euler/largest_palindrome_factor.rb" />
         <option value="$PROJECT_DIR$/spec/project-euler/largest_palindrome_product_spec.rb" />
         <option value="$PROJECT_DIR$/lib/project-euler/largest_palindrome_product.rb" />
-        <option value="$PROJECT_DIR$/spec/project-euler/smallest_multiple_spec.rb" />
         <option value="$PROJECT_DIR$/lib/project-euler/smallest_multiple.rb" />
+        <option value="$PROJECT_DIR$/spec/project-euler/smallest_multiple_spec.rb" />
       </list>
     </option>
   </component>
@@ -180,12 +180,12 @@
       <workItem from="1525827858252" duration="4172000" />
       <workItem from="1525869475643" duration="5407000" />
       <workItem from="1525964512048" duration="14662000" />
-      <workItem from="1533266703322" duration="6795000" />
+      <workItem from="1533266703322" duration="7107000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31036000" />
+    <option name="totallyTimeSpent" value="31348000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -393,17 +393,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spec/project-euler/smallest_multiple_spec.rb">
+    <entry file="file://$PROJECT_DIR$/lib/project-euler/smallest_multiple.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
-          <caret line="11" column="28" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
+          <caret line="11" column="3" lean-forward="true" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/project-euler/smallest_multiple.rb">
+    <entry file="file://$PROJECT_DIR$/spec/project-euler/smallest_multiple_spec.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="2" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
+        <state relative-caret-position="95">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
