@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cc89880c-eda9-4daf-87a2-103628ab8777" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/lib/project-euler/highly_divisible_triangular_numbers.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spec/project-euler/highly_divisible_triangular_numbers_spec.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/project-euler/largest_product_in_a_grid.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spec/project-euler/largest_product_in_a_grid_spec.rb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,20 +15,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="highly_divisible_triangular_numbers.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib/project-euler/highly_divisible_triangular_numbers.rb">
+      <file leaf-file-name="largest_product_in_a_grid.rb" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lib/project-euler/largest_product_in_a_grid.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="20" column="3" lean-forward="true" selection-start-line="20" selection-start-column="3" selection-end-line="20" selection-end-column="3" />
+            <state relative-caret-position="133">
+              <caret line="7" column="3" lean-forward="true" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="highly_divisible_triangular_numbers_spec.rb" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/spec/project-euler/highly_divisible_triangular_numbers_spec.rb">
+      <file leaf-file-name="largest_product_in_a_grid_spec.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spec/project-euler/largest_product_in_a_grid_spec.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="4" column="47" selection-start-line="4" selection-start-column="47" selection-end-line="4" selection-end-column="47" />
+            <state relative-caret-position="270">
+              <caret line="43" column="42" selection-start-line="43" selection-start-column="42" selection-end-line="43" selection-end-column="42" />
             </state>
           </provider>
         </entry>
@@ -42,6 +42,12 @@
         <option value="RSpec Test Template" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>08</find>
+      <find>09</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -88,6 +94,8 @@
         <option value="$PROJECT_DIR$/lib/project-euler/highly_dvisible_triangular_numbers.rb" />
         <option value="$PROJECT_DIR$/lib/project-euler/highly_divisible_triangular_numbers.rb" />
         <option value="$PROJECT_DIR$/spec/project-euler/highly_divisible_triangular_numbers_spec.rb" />
+        <option value="$PROJECT_DIR$/spec/project-euler/largest_product_in_a_grid_spec.rb" />
+        <option value="$PROJECT_DIR$/lib/project-euler/largest_product_in_a_grid.rb" />
       </list>
     </option>
   </component>
@@ -127,6 +135,13 @@
               <item name="Katas" type="462c0819:PsiDirectoryNode" />
               <item name="lib" type="462c0819:PsiDirectoryNode" />
               <item name="project-euler" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Katas" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Katas" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="project-euler" type="462c0819:PsiDirectoryNode" />
+              <item name="largest_prime_factor" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Katas" type="b2602c69:ProjectViewProjectNode" />
@@ -187,12 +202,12 @@
       <workItem from="1525827858252" duration="4172000" />
       <workItem from="1525869475643" duration="5407000" />
       <workItem from="1525964512048" duration="14662000" />
-      <workItem from="1533266703322" duration="22483000" />
+      <workItem from="1533266703322" duration="31434000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="46724000" />
+    <option name="totallyTimeSpent" value="55675000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -203,7 +218,7 @@
       <window_info anchor="bottom" id="Database Changes" order="1" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="7" weight="0.32965517" />
       <window_info anchor="bottom" id="Version Control" order="4" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="2" visible="true" weight="0.24" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="2" visible="true" weight="0.4289655" />
       <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.27059773" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="0" />
@@ -353,13 +368,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/project-euler/largest_prime_factor/slow.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lib/project-euler/even_fibonacci_numbers.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="286">
@@ -371,13 +379,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="96">
           <caret line="4" column="27" lean-forward="true" selection-start-line="4" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/project-euler/largest_prime_factor/faster.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="3" lean-forward="true" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
         </state>
       </provider>
     </entry>
@@ -464,13 +465,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/project-euler/largest_prime_factor/fastest.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" column="3" lean-forward="true" selection-start-line="17" selection-start-column="3" selection-end-line="17" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lib/project-euler/sum_of_primes.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="19">
@@ -485,6 +479,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/spec/project-euler/highly_divisible_triangular_numbers_spec.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="47" selection-start-line="4" selection-start-column="47" selection-end-line="4" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/lib/project-euler/highly_divisible_triangular_numbers.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="380">
@@ -492,10 +493,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spec/project-euler/highly_divisible_triangular_numbers_spec.rb">
+    <entry file="file://$PROJECT_DIR$/lib/project-euler/largest_prime_factor/fastest.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="47" selection-start-line="4" selection-start-column="47" selection-end-line="4" selection-end-column="47" />
+        <state relative-caret-position="323">
+          <caret line="17" column="3" lean-forward="true" selection-start-line="17" selection-start-column="3" selection-end-line="17" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/project-euler/largest_prime_factor/faster.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="3" lean-forward="true" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/project-euler/largest_prime_factor/slow.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="3" lean-forward="true" selection-start-line="19" selection-start-column="3" selection-end-line="19" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spec/project-euler/largest_product_in_a_grid_spec.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="43" column="42" selection-start-line="43" selection-start-column="42" selection-end-line="43" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/project-euler/largest_product_in_a_grid.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="3" lean-forward="true" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
         </state>
       </provider>
     </entry>
